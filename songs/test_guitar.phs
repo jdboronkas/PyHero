@@ -1,0 +1,20 @@
+guitar # which instrument?
+
+# intro
+bpm=192
+rest(4m)
+chord(gry, 1, wammy)
+chord(gyo, 2, wammy)
+rest(2)
+
+# solo
+starpower
+green(8)
+red(8)
+yellow(8)
+orange(8)
+
+# outro
+chord(rb, 2)
+bpm=180
+orange(4, wammy)

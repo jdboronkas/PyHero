@@ -1,0 +1,24 @@
+bass # which instrument?
+
+# intro
+bpm=192
+rest(4m)
+yellow(1d)
+green(1.2m)
+rest(2)
+
+# solo
+starpower
+open(16)
+green(16)
+open(16)
+red(16)
+open(16)
+yellow(16)
+open(16)
+orange(16)
+
+# outro
+blue(2)
+bpm=180
+orange(4, wammy)
